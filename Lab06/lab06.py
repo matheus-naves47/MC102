@@ -6,8 +6,6 @@
 ##################################################
 
 # Leitura da torre de panquecas
-from pickle import TRUE
-
 
 torre = [int(panqueca) for panqueca in input().split()]
 
